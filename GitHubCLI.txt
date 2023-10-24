@@ -1,0 +1,8 @@
+pwd
+ls   
+git init
+git add .
+git status      (— Optional )
+git commit -m  “First Commit”
+git remote add origin urlToGithubRepo
+git push -u origin master/main
